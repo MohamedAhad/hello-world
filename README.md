@@ -14,3 +14,6 @@
 \cb3 This repository is built step by step in the tutorial.}
 
 It is added via github edit option
+
+
+Focus on the changes
